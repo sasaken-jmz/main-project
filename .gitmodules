@@ -1,0 +1,3 @@
+[submodule "sub-project3"]
+	path = sub-project3
+	url = git@github.com:sasaken-jmz/sub-project3.git
